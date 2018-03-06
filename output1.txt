@@ -1,0 +1,85 @@
+CALCOLO IL NUMERO DEI TOKENS:
+
+Il file hillary.txt è lungo 17266 tokens
+Il file donald.txt è lungo 17003 tokens
+
+CONFRONTO I DUE TESTI SULLA BASE DEL NUMERO DI TOKENS:
+
+Il file hillary.txt è più lungo del file donald.txt
+
+///////////////////////////////////////////////////////////////////////////////////////////////////
+
+CALCOLO LA LUNGHEZZA MEDIA DELLE FRASI IN TOKENS:
+
+Il file hillary.txt ha frasi di lunghezza media di 19.313 tokens
+Il file donald.txt ha frasi di lunghezza media di 15.1 tokens
+
+CONFRONTO I DUE TESTI SULLA BASE DELLA LUNGHEZZA MEDIA DELLE FRASI IN TOKENS:
+
+Le frasi del file hillary.txt hanno una lunghezza media maggiore di quelle del file donald.txt
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+CALCOLO IL VOCABOLARIO DEI DUE TESTI:
+
+Il file hillary.txt ha un vocabolario di 2503 tokens
+Il file donald.txt ha un vocabolario di 2614 tokens
+
+COMPARO LA GRANDEZZA DEL VOCABOLARIO DEI DUE TESTI ALL'AUMENTARE DEL CORPUS DI 1000 TOKENS:
+Il file hillary.txt ha 379 type su 1000 tokens \------------/ il file donald.txt ha 379 type su 1000 tokens
+Il file hillary.txt ha 613 type su 2000 tokens \------------/ il file donald.txt ha 676 type su 2000 tokens
+Il file hillary.txt ha 778 type su 3000 tokens \------------/ il file donald.txt ha 960 type su 3000 tokens
+Il file hillary.txt ha 925 type su 4000 tokens \------------/ il file donald.txt ha 1209 type su 4000 tokens
+Il file hillary.txt ha 1051 type su 5000 tokens \------------/ il file donald.txt ha 1402 type su 5000 tokens
+Il file hillary.txt ha 1212 type su 6000 tokens \------------/ il file donald.txt ha 1594 type su 6000 tokens
+Il file hillary.txt ha 1341 type su 7000 tokens \------------/ il file donald.txt ha 1762 type su 7000 tokens
+Il file hillary.txt ha 1427 type su 8000 tokens \------------/ il file donald.txt ha 1860 type su 8000 tokens
+Il file hillary.txt ha 1617 type su 9000 tokens \------------/ il file donald.txt ha 1967 type su 9000 tokens
+Il file hillary.txt ha 1780 type su 10000 tokens \------------/ il file donald.txt ha 2063 type su 10000 tokens
+Il file hillary.txt ha 1887 type su 11000 tokens \------------/ il file donald.txt ha 2142 type su 11000 tokens
+Il file hillary.txt ha 1981 type su 12000 tokens \------------/ il file donald.txt ha 2209 type su 12000 tokens
+Il file hillary.txt ha 2093 type su 13000 tokens \------------/ il file donald.txt ha 2277 type su 13000 tokens
+Il file hillary.txt ha 2211 type su 14000 tokens \------------/ il file donald.txt ha 2370 type su 14000 tokens
+Il file hillary.txt ha 2290 type su 15000 tokens \------------/ il file donald.txt ha 2447 type su 15000 tokens
+Il file hillary.txt ha 2376 type su 16000 tokens \------------/ il file donald.txt ha 2533 type su 16000 tokens
+Il file hillary.txt ha 2482 type su 17000 tokens \------------/ il file donald.txt ha 2614 type su 17000 tokens
+Il file hillary.txt ha 2503 type su 17266 tokens \------------/ il file donald.txt ha 2614 type su 17003 tokens
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+CALCOLO LA RICCHEZZA LESSICALE, COME TYPE TOKEN RATIO, DEI DUE TESTI:
+
+Il file hillary.txt ha una Type Token Ratio di 0.145
+Il file donald.txt ha una Type Token Ratio di 0.154
+
+COMPARO LA RICCHEZZA LESSICALE DEI DUE TESTI ALL'AUMENTARE DEL CORPUS DI 1000 TOKENS:
+Il file hillary.txt ha una Token Type Ratio di 0.379 su 1000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.379 su 1000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.306 su 2000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.338 su 2000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.259 su 3000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.32 su 3000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.231 su 4000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.302 su 4000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.21 su 5000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.28 su 5000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.202 su 6000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.266 su 6000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.192 su 7000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.252 su 7000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.178 su 8000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.233 su 8000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.18 su 9000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.219 su 9000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.178 su 10000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.206 su 10000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.172 su 11000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.195 su 11000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.165 su 12000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.184 su 12000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.161 su 13000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.175 su 13000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.158 su 14000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.169 su 14000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.153 su 15000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.163 su 15000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.148 su 16000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.158 su 16000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.146 su 17000 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.154 su 17000 tokens
+Il file hillary.txt ha una Token Type Ratio di 0.145 su 17266 tokens \------------/ il file donald.txt ha una Token Type Ratio di 0.154 su 17003 tokens
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+CALCOLO IL RAPPORTO TRA SOSTANTIVI E VERBI:
+
+Il file hillary.txt ha un rapporto sostantivi/verbi di 1.46 \------------/ il file donald.txt ha un rapporto sostantivi/verbi di 1.556
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+COMPARO LA DENSITÀ LESSICALE DEI DUE TESTI, CALCOLATA COME (|Sostantivi|+|Verbi|+|Avverbi|+|Aggettivi|)/(TOT-( |.|+|,| ) ) :
+
+Il file hillary.txt ha una densità lessicale di 0.498 \------------/ il file donald.txt ha una densità lessicale di 0.51

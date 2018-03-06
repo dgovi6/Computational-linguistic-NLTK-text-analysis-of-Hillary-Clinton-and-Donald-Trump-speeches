@@ -1,0 +1,440 @@
+Le 10 PoS più frequenti per il file:  hillary.txt
+
+NN ------ con frequenza:  1694
+IN ------ con frequenza:  1636
+PRP ------ con frequenza:  1413
+DT ------ con frequenza:  1190
+, ------ con frequenza:  935
+RB ------ con frequenza:  924
+. ------ con frequenza:  894
+VB ------ con frequenza:  887
+JJ ------ con frequenza:  849
+NNP ------ con frequenza:  807
+------------------------------------------------------------------------------------
+
+Le 10 PoS più frequenti per il file:  donald.txt
+
+NN ------ con frequenza:  1760
+IN ------ con frequenza:  1530
+DT ------ con frequenza:  1307
+PRP ------ con frequenza:  1297
+. ------ con frequenza:  1126
+JJ ------ con frequenza:  976
+NNS ------ con frequenza:  909
+RB ------ con frequenza:  872
+VB ------ con frequenza:  852
+, ------ con frequenza:  748
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+I 20 token più frequenti escludendo la punteggiatura per il file:  hillary.txt
+
+to ------ con frequenza:  531
+the ------ con frequenza:  445
+and ------ con frequenza:  406
+I ------ con frequenza:  335
+of ------ con frequenza:  317
+a ------ con frequenza:  294
+in ------ con frequenza:  272
+you ------ con frequenza:  232
+that ------ con frequenza:  221
+we ------ con frequenza:  205
+is ------ con frequenza:  181
+'s ------ con frequenza:  180
+our ------ con frequenza:  175
+And ------ con frequenza:  166
+it ------ con frequenza:  153
+for ------ con frequenza:  138
+are ------ con frequenza:  116
+this ------ con frequenza:  110
+do ------ con frequenza:  107
+have ------ con frequenza:  107
+------------------------------------------------------------------------------------
+
+I 20 token più frequenti escludendo la punteggiatura per il file:  donald.txt
+
+the ------ con frequenza:  588
+and ------ con frequenza:  474
+to ------ con frequenza:  461
+of ------ con frequenza:  355
+our ------ con frequenza:  252
+a ------ con frequenza:  251
+I ------ con frequenza:  226
+we ------ con frequenza:  195
+in ------ con frequenza:  192
+that ------ con frequenza:  182
+We ------ con frequenza:  172
+is ------ con frequenza:  156
+will ------ con frequenza:  154
+'s ------ con frequenza:  147
+it ------ con frequenza:  144
+you ------ con frequenza:  143
+for ------ con frequenza:  142
+have ------ con frequenza:  134
+be ------ con frequenza:  102
+are ------ con frequenza:  96
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+I 20 bigrammi di token più frequenti che non contengono punteggiatura, articoli e congiunzioni per il file:  hillary.txt
+
+( I ,  want ) ------ con frequenza:  51
+( want ,  to ) ------ con frequenza:  46
+( to ,  be ) ------ con frequenza:  46
+( Donald ,  Trump ) ------ con frequenza:  35
+( going ,  to ) ------ con frequenza:  30
+( it ,  's ) ------ con frequenza:  28
+( It ,  's ) ------ con frequenza:  28
+( do ,  n't ) ------ con frequenza:  27
+( our ,  country ) ------ con frequenza:  24
+( I ,  have ) ------ con frequenza:  24
+( I ,  'm ) ------ con frequenza:  24
+( to ,  do ) ------ con frequenza:  23
+( I ,  am ) ------ con frequenza:  22
+( I ,  've ) ------ con frequenza:  21
+( to ,  make ) ------ con frequenza:  21
+( I ,  think ) ------ con frequenza:  19
+( I ,  was ) ------ con frequenza:  18
+( 've ,  got ) ------ con frequenza:  18
+( I ,  know ) ------ con frequenza:  18
+( got ,  to ) ------ con frequenza:  17
+------------------------------------------------------------------------------------
+
+I 20 bigrammi di token più frequenti che non contengono punteggiatura, articoli e congiunzioni per il file:  donald.txt
+
+( going ,  to ) ------ con frequenza:  69
+( our ,  country ) ------ con frequenza:  39
+( 're ,  going ) ------ con frequenza:  37
+( we ,  will ) ------ con frequenza:  35
+( to ,  be ) ------ con frequenza:  35
+( will ,  be ) ------ con frequenza:  32
+( We ,  're ) ------ con frequenza:  32
+( do ,  n't ) ------ con frequenza:  31
+( We ,  will ) ------ con frequenza:  30
+( want ,  to ) ------ con frequenza:  28
+( we ,  have ) ------ con frequenza:  23
+( It ,  's ) ------ con frequenza:  22
+( it ,  's ) ------ con frequenza:  21
+( United ,  States ) ------ con frequenza:  21
+( to ,  do ) ------ con frequenza:  21
+( We ,  have ) ------ con frequenza:  20
+( they ,  're ) ------ con frequenza:  20
+( we ,  are ) ------ con frequenza:  19
+( We ,  are ) ------ con frequenza:  17
+( I ,  am ) ------ con frequenza:  17
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+I 20 trigrammi di token più frequenti che non contengono punteggiatura, articoli e congiunzioni per il file:  hillary.txt
+
+( I ,  want ,  to ) ------ con frequenza:  26
+( want ,  you ,  to ) ------ con frequenza:  15
+( 've ,  got ,  to ) ------ con frequenza:  15
+( I ,  want ,  you ) ------ con frequenza:  15
+( 're ,  going ,  to ) ------ con frequenza:  12
+( want ,  to ,  thank ) ------ con frequenza:  11
+( I ,  do ,  n't ) ------ con frequenza:  10
+( going ,  to ,  be ) ------ con frequenza:  8
+( what ,  I ,  want ) ------ con frequenza:  8
+( we ,  do ,  n't ) ------ con frequenza:  8
+( I ,  've ,  been ) ------ con frequenza:  8
+( to ,  make ,  sure ) ------ con frequenza:  8
+( want ,  to ,  do ) ------ con frequenza:  7
+( we ,  've ,  got ) ------ con frequenza:  7
+( we ,  're ,  going ) ------ con frequenza:  7
+( We ,  've ,  got ) ------ con frequenza:  7
+( We ,  're ,  going ) ------ con frequenza:  6
+( do ,  n't ,  think ) ------ con frequenza:  6
+( 'll ,  tell ,  you ) ------ con frequenza:  6
+( here ,  's ,  what ) ------ con frequenza:  6
+------------------------------------------------------------------------------------
+
+I 20 trigrammi di token più frequenti che non contengono punteggiatura, articoli e congiunzioni per il file:  donald.txt
+
+( 're ,  going ,  to ) ------ con frequenza:  35
+( going ,  to ,  be ) ------ con frequenza:  18
+( We ,  're ,  going ) ------ con frequenza:  15
+( I ,  want ,  to ) ------ con frequenza:  14
+( what ,  's ,  happening ) ------ con frequenza:  12
+( we ,  're ,  going ) ------ con frequenza:  11
+( We ,  do ,  n't ) ------ con frequenza:  10
+( want ,  to ,  thank ) ------ con frequenza:  9
+( I ,  do ,  n't ) ------ con frequenza:  9
+( will ,  make ,  America ) ------ con frequenza:  9
+( are ,  going ,  to ) ------ con frequenza:  8
+( 's ,  going ,  to ) ------ con frequenza:  8
+( not ,  going ,  to ) ------ con frequenza:  7
+( they ,  're ,  going ) ------ con frequenza:  7
+( We ,  have ,  seen ) ------ con frequenza:  7
+( do ,  n't ,  want ) ------ con frequenza:  7
+( going ,  to ,  do ) ------ con frequenza:  6
+( 're ,  gon ,  na ) ------ con frequenza:  6
+( you ,  very ,  much ) ------ con frequenza:  6
+( We ,  will ,  make ) ------ con frequenza:  6
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+I 20 bigrammi composti da Aggettivo e Sostantivo (dove ogni token deve avere una frequenza maggiore di 2), con probabilità congiunta massima per il file:  hillary.txt
+
+( terrific ,  mayor ) ------ con probabilità congiunta:  0.00121626317618
+( next ,  Tuesday ) ------ con probabilità congiunta:  0.00110042858798
+( black ,  men ) ------ con probabilità congiunta:  0.000752924823352
+( email ,  story ) ------ con probabilità congiunta:  0.000637090235144
+( half ,  hours ) ------ con probabilità congiunta:  0.000637090235144
+( special ,  focus ) ------ con probabilità congiunta:  0.000637090235144
+( clean ,  energy ) ------ con probabilità congiunta:  0.00057917294104
+( young ,  people ) ------ con probabilità congiunta:  0.00057917294104
+( Equal ,  pay ) ------ con probabilità congiunta:  0.000521255646936
+( residential ,  neighborhood ) ------ con probabilità congiunta:  0.000521255646936
+( more ,  emails ) ------ con probabilità congiunta:  0.000463338352832
+( nuclear ,  weapons ) ------ con probabilità congiunta:  0.000463338352832
+( supreme ,  power ) ------ con probabilità congiunta:  0.000463338352832
+( fundamental ,  belief ) ------ con probabilità congiunta:  0.000405421058728
+( foreign ,  policy ) ------ con probabilità congiunta:  0.000405421058728
+( enough ,  attention ) ------ con probabilità congiunta:  0.000405421058728
+( different ,  views ) ------ con probabilità congiunta:  0.000405421058728
+( world-famous ,  climate ) ------ con probabilità congiunta:  0.000347503764624
+( electric ,  Chevys ) ------ con probabilità congiunta:  0.000347503764624
+( tough ,  question ) ------ con probabilità congiunta:  0.000347503764624
+------------------------------------------------------------------------------------
+
+I 20 bigrammi composti da Aggettivo e Sostantivo (dove ogni token deve avere una frequenza maggiore di 2), con probabilità congiunta massima per il file:  donald.txt
+
+( phony ,  polls ) ------ con probabilità congiunta:  0.00323472328413
+( greatest ,  presidents ) ------ con probabilità congiunta:  0.00111744986179
+( vital ,  intelligence ) ------ con probabilità congiunta:  0.000764570958066
+( frank ,  discussions ) ------ con probabilità congiunta:  0.000764570958066
+( much ,  publicity ) ------ con probabilità congiunta:  0.000588131506205
+( less ,  conflict ) ------ con probabilità congiunta:  0.000588131506205
+( unbreakable ,  alliance ) ------ con probabilità congiunta:  0.000529318355584
+( American ,  people ) ------ con probabilità congiunta:  0.000470505204964
+( quiet ,  voices ) ------ con probabilità congiunta:  0.000411692054343
+( recent ,  decades ) ------ con probabilità congiunta:  0.000352878903723
+( inner ,  cities ) ------ con probabilità congiunta:  0.000352878903723
+( other ,  countries ) ------ con probabilità congiunta:  0.000352878903723
+( congressional ,  leadership ) ------ con probabilità congiunta:  0.000294065753102
+( precious ,  child ) ------ con probabilità congiunta:  0.000294065753102
+( deep ,  devotion ) ------ con probabilità congiunta:  0.000294065753102
+( good ,  person ) ------ con probabilità congiunta:  0.000294065753102
+( tiny ,  group ) ------ con probabilità congiunta:  0.000294065753102
+( middle ,  class ) ------ con probabilità congiunta:  0.000294065753102
+( reasonable ,  demands ) ------ con probabilità congiunta:  0.000294065753102
+( terrific ,  people ) ------ con probabilità congiunta:  0.000294065753102
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+I 20 bigrammi composti da Aggettivo e Sostantivo (dove ogni token deve avere una frequenza maggiore di 2), con probabilità condizionata massima per il file:  hillary.txt
+
+( 21st ,  century ) ------ con probabilità condizionata:  1.0
+( one-millionth ,  member ) ------ con probabilità condizionata:  1.0
+( independent ,  voice ) ------ con probabilità condizionata:  0.833333333333
+( entire ,  life ) ------ con probabilità condizionata:  0.75
+( full ,  time ) ------ con probabilità condizionata:  0.714285714286
+( residential ,  neighborhood ) ------ con probabilità condizionata:  0.692307692308
+( older ,  Americans ) ------ con probabilità condizionata:  0.666666666667
+( first ,  hearing ) ------ con probabilità condizionata:  0.666666666667
+( biggest ,  turnout ) ------ con probabilità condizionata:  0.666666666667
+( larger ,  region ) ------ con probabilità condizionata:  0.666666666667
+( clean ,  energy ) ------ con probabilità condizionata:  0.625
+( young ,  people ) ------ con probabilità condizionata:  0.625
+( nuclear ,  weapons ) ------ con probabilità condizionata:  0.533333333333
+( economic ,  growth ) ------ con probabilità condizionata:  0.5
+( long ,  time ) ------ con probabilità condizionata:  0.5
+( divisive ,  vision ) ------ con probabilità condizionata:  0.5
+( inclusive ,  economy ) ------ con probabilità condizionata:  0.5
+( black ,  men ) ------ con probabilità condizionata:  0.481481481481
+( next ,  Tuesday ) ------ con probabilità condizionata:  0.475
+( national ,  service ) ------ con probabilità condizionata:  0.454545454545
+------------------------------------------------------------------------------------
+
+I 20 bigrammi composti da Aggettivo e Sostantivo (dove ogni token deve avere una frequenza maggiore di 2), con probabilità condizionata massima per il file:  donald.txt
+
+( middle ,  class ) ------ con probabilità condizionata:  1.0
+( level ,  playing ) ------ con probabilità condizionata:  1.0
+( fake ,  news ) ------ con probabilità condizionata:  1.0
+( inner ,  cities ) ------ con probabilità condizionata:  0.75
+( pine ,  line ) ------ con probabilità condizionata:  0.75
+( deep ,  devotion ) ------ con probabilità condizionata:  0.714285714286
+( unrealized ,  potential ) ------ con probabilità condizionata:  0.666666666667
+( civil ,  rights ) ------ con probabilità condizionata:  0.666666666667
+( clean ,  coal ) ------ con probabilità condizionata:  0.666666666667
+( storied ,  history ) ------ con probabilità condizionata:  0.666666666667
+( frank ,  discussions ) ------ con probabilità condizionata:  0.65
+( new ,  surge ) ------ con probabilità condizionata:  0.6
+( appointed ,  position ) ------ con probabilità condizionata:  0.6
+( loved ,  ones ) ------ con probabilità condizionata:  0.6
+( simple ,  rules ) ------ con probabilità condizionata:  0.5
+( deep ,  ties ) ------ con probabilità condizionata:  0.5
+( best ,  vehicle ) ------ con probabilità condizionata:  0.5
+( greater ,  act ) ------ con probabilità condizionata:  0.5
+( independent ,  people ) ------ con probabilità condizionata:  0.5
+( great ,  quarterback ) ------ con probabilità condizionata:  0.5
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+I 20 bigrammi composti da Aggettivo e Sostantivo (dove ogni token deve avere una frequenza maggiore di 2), con forza associativa (in termini di Local Mutual Information) massima per il file :  hillary.txt
+
+( next ,  Tuesday ) ------ con LMI:  67.7410169615
+( clean ,  energy ) ------ con LMI:  64.5327755549
+( nuclear ,  weapons ) ------ con LMI:  56.3875546215
+( young ,  people ) ------ con LMI:  46.9137104942
+( supreme ,  power ) ------ con LMI:  34.9029358595
+( national ,  security ) ------ con LMI:  34.4429781338
+( terrific ,  mayor ) ------ con LMI:  33.5029342405
+( half ,  hours ) ------ con LMI:  32.287076813
+( full ,  time ) ------ con LMI:  31.4226403812
+( black ,  men ) ------ con LMI:  30.1755046488
+( long ,  time ) ------ con LMI:  29.6392656615
+( national ,  service ) ------ con LMI:  28.7458067178
+( residential ,  neighborhood ) ------ con LMI:  28.0260695469
+( good ,  jobs ) ------ con LMI:  27.9569044784
+( next ,  president ) ------ con LMI:  27.7441064063
+( Equal ,  pay ) ------ con LMI:  26.7891535919
+( consequential ,  choice ) ------ con LMI:  25.7179614319
+( last ,  year ) ------ con LMI:  25.4211885885
+( 21st ,  century ) ------ con LMI:  25.110600503
+( different ,  views ) ------ con LMI:  24.3289465121
+------------------------------------------------------------------------------------
+
+I 20 bigrammi composti da Aggettivo e Sostantivo (dove ogni token deve avere una frequenza maggiore di 2), con forza associativa (in termini di Local Mutual Information) massima per il file :  donald.txt
+
+( phony ,  polls ) ------ con LMI:  82.4798439254
+( frank ,  discussions ) ------ con LMI:  56.5177279122
+( greatest ,  presidents ) ------ con LMI:  54.1164898367
+( inner ,  cities ) ------ con LMI:  43.5374305696
+( middle ,  class ) ------ con LMI:  38.976174645
+( fake ,  news ) ------ con LMI:  38.976174645
+( level ,  playing ) ------ con LMI:  33.4194028678
+( other ,  countries ) ------ con LMI:  33.369856245
+( vital ,  intelligence ) ------ con LMI:  29.723526673
+( much ,  publicity ) ------ con LMI:  27.2184842434
+( American ,  people ) ------ con LMI:  26.9665288371
+( less ,  conflict ) ------ con LMI:  26.898090706
+( safe ,  zones ) ------ con LMI:  26.7864905613
+( recent ,  decades ) ------ con LMI:  26.6569662691
+( many ,  others ) ------ con LMI:  23.4177595225
+( simple ,  rules ) ------ con LMI:  22.9851106091
+( loved ,  ones ) ------ con LMI:  22.3156799552
+( big ,  league ) ------ con LMI:  20.2362384135
+( quiet ,  voices ) ------ con LMI:  20.0109532494
+( good ,  person ) ------ con LMI:  19.9206892108
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+Frase con probabilità maggiore, calcolata con modello di Markov di ordine 0, con lunghezza maggiore di 10 tokens e con ogni token con frequenza maggiore di 2 per il file:  hillary.txt
+
+I hope too that you ready to elect Patrick Murphy to the United States Senate! ------ con probabilità:  0.0194022935248
+-----------------------------------------------------------------------------------
+
+Frase con probabilità maggiore, calcolata con modello di Markov di ordine 0, con lunghezza maggiore di 10 tokens e con ogni token con frequenza maggiore di 2 per il file:  donald.txt
+
+I am not going to let America and its great companies and workers, be taken advantage of anymore. ------ con probabilità:  0.0132917720402
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+Frase con probabilità maggiore, calcolata con modello di Markov di ordine 1, con lunghezza maggiore di 10 tokens e con ogni token con frequenza maggiore di 2 per il file:  hillary.txt
+
+Donald Trump is different, and that's why there is so much at stake in this election. ------ con probabilità:  0.00202710529364
+-----------------------------------------------------------------------------------
+
+Frase con probabilità maggiore, calcolata con modello di Markov di ordine 1, con lunghezza maggiore di 10 tokens e con ogni token con frequenza maggiore di 2 per il file:  donald.txt
+
+We're going to put the miners back to work. ------ con probabilità:  0.00188202081986
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+Estraggo le Entità Nominate e ed estraggo i 20 nomi di persona più frequenti ordinati per frequenza per il file:  hillary.txt
+
+PERSON :   Donald Trump ------ con frequenza: 33
+PERSON :   Donald ------ con frequenza: 8
+PERSON :   Gabby ------ con frequenza: 6
+PERSON :   Obama ------ con frequenza: 6
+PERSON :   Al Gore ------ con frequenza: 5
+PERSON :   Trump ------ con frequenza: 5
+PERSON :   Mark ------ con frequenza: 4
+PERSON :   Kennedy ------ con frequenza: 4
+PERSON :   Orlando ------ con frequenza: 3
+PERSON :   Val ------ con frequenza: 3
+PERSON :   Hurricane Matthew ------ con frequenza: 3
+PERSON :   Eileen ------ con frequenza: 3
+PERSON :   Hello ------ con frequenza: 3
+PERSON :   Tim Kaine ------ con frequenza: 3
+PERSON :   Miami Beach ------ con frequenza: 2
+PERSON :   Bill ------ con frequenza: 2
+PERSON :   Bruce Blair ------ con frequenza: 2
+PERSON :   Alicia ------ con frequenza: 2
+PERSON :   Miami Beach Commissioner ------ con frequenza: 2
+PERSON :   Reagan ------ con frequenza: 2
+-----------------------------------------------------------------------------------
+
+Estraggo le Entità Nominate e ed estraggo i 20 nomi di persona più frequenti ordinati per frequenza per il file:  donald.txt
+
+PERSON :   Obamacare ------ con frequenza: 7
+PERSON :   Megan ------ con frequenza: 6
+PERSON :   God ------ con frequenza: 5
+PERSON :   Obama ------ con frequenza: 5
+PERSON :   Trump ------ con frequenza: 4
+PERSON :   Ryan ------ con frequenza: 4
+PERSON :   Ben ------ con frequenza: 4
+PERSON :   Right ------ con frequenza: 4
+PERSON :   Jenna ------ con frequenza: 3
+PERSON :   Thomas Jefferson ------ con frequenza: 3
+PERSON :   America ------ con frequenza: 3
+PERSON :   Rex ------ con frequenza: 3
+PERSON :   Okay ------ con frequenza: 3
+PERSON :   Neil Gorsuch ------ con frequenza: 2
+PERSON :   Martin Luther King ------ con frequenza: 2
+PERSON :   Jamiel Shaw ------ con frequenza: 2
+PERSON :   Mark ------ con frequenza: 2
+PERSON :   William ------ con frequenza: 2
+PERSON :   Sweden ------ con frequenza: 2
+PERSON :   Jessica Davis ------ con frequenza: 2
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+Estraggo le Entità Nominate e ed estraggo i 20 nomi di luogo più frequenti ordinati per frequenza per il file:  hillary.txt
+
+GPE :   America ------ con frequenza: 52
+GPE :   American ------ con frequenza: 14
+GPE :   United States ------ con frequenza: 12
+GPE :   Florida ------ con frequenza: 9
+GPE :   Americans ------ con frequenza: 8
+GPE :   Ohio ------ con frequenza: 5
+GPE :   Miami ------ con frequenza: 3
+GPE :   Anastasia ------ con frequenza: 3
+GPE :   Washington ------ con frequenza: 3
+GPE :   New York ------ con frequenza: 3
+GPE :   State ------ con frequenza: 3
+GPE :   U.S. ------ con frequenza: 2
+GPE :   New Jersey ------ con frequenza: 2
+GPE :   Charlotte ------ con frequenza: 2
+GPE :   Chinese ------ con frequenza: 2
+GPE :   Norfolk ------ con frequenza: 2
+GPE :   South Carolina ------ con frequenza: 2
+GPE :   Michigan ------ con frequenza: 2
+GPE :   China ------ con frequenza: 2
+GPE :   Haiti ------ con frequenza: 2
+-----------------------------------------------------------------------------------
+
+Estraggo le Entità Nominate e ed estraggo i 20 nomi di luogo più frequenti ordinati per frequenza per il file:  donald.txt
+
+GPE :   America ------ con frequenza: 70
+GPE :   American ------ con frequenza: 53
+GPE :   United States ------ con frequenza: 21
+GPE :   Washington ------ con frequenza: 5
+GPE :   Paris ------ con frequenza: 5
+GPE :   Chicago ------ con frequenza: 4
+GPE :   Japan ------ con frequenza: 3
+GPE :   God ------ con frequenza: 3
+GPE :   Homeland ------ con frequenza: 3
+GPE :   Detroit ------ con frequenza: 2
+GPE :   Great ------ con frequenza: 2
+GPE :   Roma ------ con frequenza: 2
+GPE :   Americans ------ con frequenza: 2
+GPE :   Owens ------ con frequenza: 2
+GPE :   Canada ------ con frequenza: 2
+GPE :   Christians ------ con frequenza: 2
+GPE :   Arizona ------ con frequenza: 2
+GPE :   Middle East ------ con frequenza: 2
+GPE :   Germany ------ con frequenza: 2
+GPE :   Florida ------ con frequenza: 1
